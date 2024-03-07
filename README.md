@@ -1,7 +1,7 @@
 ### Prazer! Vítor Penteado 👋
 
 - 🔭 Hoje trabalho como Desenvolvedor Web
-- 🌱 Estudando Typescript
+- 🌱 Estudando Typescript e NodeJs
 - 🏐 Volleyball Player
 ##
 
