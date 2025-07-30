@@ -1,6 +1,6 @@
 ### Prazer! Vítor Penteado 👋
 
-- 🔭 Hoje trabalho como Desenvolvedor Web
+- 🔭 Hoje trabalho como Full Stack Developer 
 - 🌱 Estudando Typescript, NextJs, Java SpringBoot e clean code
 - 🏐 Volleyball Player
 ##
